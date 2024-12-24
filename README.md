@@ -1,2 +1,2 @@
 # SpringSecurityJWTExample
- Springboot + JWT implementation
+ Springboot security + JWT implementation
